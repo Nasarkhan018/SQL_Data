@@ -1,0 +1,2 @@
+-- constraints 
+-- condition that can apply on columns of table and these condition can be followed while inserting records into the table 
